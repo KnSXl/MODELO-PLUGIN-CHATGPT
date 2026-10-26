@@ -1,0 +1,20 @@
+{
+  "name": "nome-plugin",
+  "version": "0.1.0",
+  "description": "Descreva em uma frase o que o plugin faz e para quem ele serve.",
+  "author": {
+    "name": "Nome do Autor",
+    "email": "autor@exemplo.com"
+  },
+  "keywords": ["palavra-chave", "outra-palavra-chave"],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Nome do Plugin",
+    "shortDescription": "Resumo do plugin",
+    "longDescription": "Explique o que o plugin ajuda a fazer, quando usá-lo e qual resultado ele entrega.",
+    "developerName": "Nome do Autor ou Empresa",
+    "category": "Productivity",
+    "capabilities": ["Interactive"],
+    "defaultPrompt": "Ajude-me a realizar a tarefa principal deste plugin."
+  }
+}
